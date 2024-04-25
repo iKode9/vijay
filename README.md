@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaygamma
-- 👀 I’m interested in creating stock screener in python
-- 🌱 I’m currently learning python
+- 👀 I’m a DevOps Engineer
+- 🌱 I’m currently learning Automation in DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
