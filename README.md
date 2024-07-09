@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaygamma
+- 👋 Hi, I’m @Vijay4Devops
 - 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning Automation in DevOps
 - 💞️ I’m looking to collaborate on ...
